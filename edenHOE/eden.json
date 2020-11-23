@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "product_name": "Bricks",
+        "description": "Burnt Clay Bricks",
+        "price": "8",
+        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+    },
+    {
+        "id": 2,
+        "product_name": "Cement",
+        "description": "Shankar Cement",
+        "price": "350",
+        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+    },
+    {
+        "id": 3,
+        "product_name": "Limestone",
+        "description": "Limestone",
+        "price": "1700",
+        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+    },
+    {
+        "id": 4,
+        "product_name": "Marbles",
+        "description": "Marbles",
+        "price": "70",
+        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+    }
+]
