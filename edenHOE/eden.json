@@ -6,6 +6,7 @@
         "ui_images": "http://testapi.edenhoe.com:8000/media/construction_QTg66PA.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg",
         "type_presence": true,
+        "choose_multiple": true,
         "types": ["House", "Apartment", "Shop", "Shopping Mall/ Complex", "Office", "Others"],
         "unit": "Square feet"
     },
@@ -15,6 +16,10 @@
         "service_description": "We do painting works artistically!\r\nOur passionate painting artists take care of your home decoration with paints.",
         "ui_images": "http://testapi.edenhoe.com:8000/media/Painting_kMVdhnA.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/Painting_ASnzcPt.jpg"
+        "type_presence": true,
+        "choose_multiple": false,
+        "types": ["art painting", "3d painting", "designer painting", "Shopping Mall/ Complex", "Office", "Others"],
+        "unit": "Square feet"
     },
     {
         "id": 3,
@@ -22,6 +27,10 @@
         "service_description": "We do world class interior works with our professional artists",
         "ui_images": "http://testapi.edenhoe.com:8000/media/interior.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/interior_7ATDwOv.jpg"
+        "choose_multiple": true,
+        "types": ["art painting", "3d painting", "designer painting"],
+        "unit": "Square feet"
+        
     },
     {
         "id": 4,
@@ -29,6 +38,9 @@
         "service_description": "Our artist decorate you walls elegantly!",
         "ui_images": "http://testapi.edenhoe.com:8000/media/wall_paper_decor.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/wall_decor.jpg"
+        "choose_multiple": true,
+        "types": ["art painting", "3d painting", "designer painting", "Shopping Mall/ Complex", "Office", "Others"],
+        "unit": "Square feet"
     },
     {
         "id": 5,
@@ -36,6 +48,9 @@
         "service_description": "Automate and make your beloved home, THE SMART HOME! with our state of art Engineers",
         "ui_images": "http://testapi.edenhoe.com:8000/media/automation.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/smart_home.jpg"
+        "choose_multiple": true,
+        "types": ["cctv", "motion sensore", "video doorbell", "Others"],
+        "unit": "Square feet"
     },
     {
         "id": 6,
@@ -43,5 +58,19 @@
         "service_description": "We take of your home cleaning efficiently, while you sit back and binge",
         "ui_images": "http://testapi.edenhoe.com:8000/media/cleaning.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg"
+        "choose_multiple": true,
+        "types": ["art painting", "3d painting", "designer painting", "Shopping Mall/ Complex", "Office", "Others"],
+        "unit": "Square feet"
+    },
+    {
+        "id": 7,
+        "service_name": "Man power",
+        "service_description": "We take of your home cleaning efficiently, while you sit back and binge",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/cleaning.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg"
+        "choose_multiple": true,
+        "types": ["Construction", "Cleaning service", "Painting", "Automation", "Office", "Others"],
+        "unit": "numbers"
     }
+]
 ]
