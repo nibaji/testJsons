@@ -18,7 +18,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/Painting_ASnzcPt.jpg",
         "type_presence": false,
         "choose_multiple": null,
-        "types": null,
+        "types": [],
         "unit": "Square feet"
     },
     {
