@@ -1,30 +1,44 @@
 [
     {
         "id": 1,
-        "product_name": "Bricks",
-        "description": "Burnt Clay Bricks",
-        "price": "8",
-        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+        "service_name": "Construction",
+        "service_description": "We Construct buildings including houses!",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/construction_QTg66PA.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg"
     },
     {
         "id": 2,
-        "product_name": "Cement",
-        "description": "Shankar Cement",
-        "price": "350",
-        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+        "service_name": "Painting Works",
+        "service_description": "We do painting works artistically!\r\nOur passionate painting artists take care of your home decoration with paints.",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/Painting_kMVdhnA.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/Painting_ASnzcPt.jpg"
     },
     {
         "id": 3,
-        "product_name": "Limestone",
-        "description": "Limestone",
-        "price": "1700",
-        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+        "service_name": "Interior Works",
+        "service_description": "We do world class interior works with our professional artists",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/interior.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/interior_7ATDwOv.jpg"
     },
     {
         "id": 4,
-        "product_name": "Marbles",
-        "description": "Marbles",
-        "price": "70",
-        "product_image": "https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?crop=entropy&cs=srgb&dl=pexels-brayden-law-1829191.jpg&fit=crop&fm=jpg&h=540&w=1080"
+        "service_name": "Wall Decor",
+        "service_description": "Our artist decorate you walls elegantly!",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/wall_paper_decor.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/wall_decor.jpg"
+    },
+    {
+        "id": 5,
+        "service_name": "Automation",
+        "service_description": "Automate and make your beloved home, THE SMART HOME! with our state of art Engineers",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/automation.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/smart_home.jpg"
+    },
+    {
+        "id": 6,
+        "service_name": "Cleaning Service",
+        "service_description": "We take of your home cleaning efficiently, while you sit back and binge",
+        "ui_images": "http://testapi.edenhoe.com:8000/media/cleaning.jpg",
+        "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg"
     }
 ]
