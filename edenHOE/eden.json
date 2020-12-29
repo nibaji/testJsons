@@ -4,7 +4,10 @@
         "service_name": "Construction",
         "service_description": "We Construct buildings including houses!",
         "ui_images": "http://testapi.edenhoe.com:8000/media/construction_QTg66PA.jpg",
-        "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg"
+        "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg",
+        "type_presence": true,
+        "types": ["House", "Apartment", "Shop", "Shopping Mall/ Complex", "Office", "Others"],
+        "unit": "Square feet"
     },
     {
         "id": 2,
