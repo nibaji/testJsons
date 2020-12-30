@@ -7,7 +7,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "House", "Apartment", "Shop", "Shopping Mall/ Complex", "Office", "Others" ],
+        "types": [ "House", "Apartment", "Shop", "Shopping Mall/ Complex", "Office", "Others", "none" ],
         "unit": "Square feet"
     },
     {
@@ -29,7 +29,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/interior_7ATDwOv.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "Fall Ceiling", "All Others" ],
+        "types": [ "Fall Ceiling", "All Others", "none" ],
         "unit": "Square feet"
         
     },
@@ -41,7 +41,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/wall_decor.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "3D Drawing", "Design Drawings", "Others" ],
+        "types": [ "3D Drawing", "Design Drawings", "Others", "none" ],
         "unit": "Square feet"
     },
     {
@@ -52,7 +52,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/smart_home.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "CCTv", "Motion Sensor", "Video Doorbell", "Others" ],
+        "types": [ "CCTv", "Motion Sensor", "Video Doorbell", "Others", "none" ],
         "unit": "numbers"
     },
     {
@@ -63,7 +63,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "Floor Cleaning", "Roof Cleaning", "Others" ],
+        "types": [ "Floor Cleaning", "Roof Cleaning", "Others", "none" ],
         "unit": "Square feet"
     },
     {
@@ -74,7 +74,7 @@
         "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg",
         "type_presence": true,
         "choose_multiple": true,
-        "types": [ "Construction", "Cleaning service", "Painting", "Interior", "Automation", "Office", "Others" ],
+        "types": [ "Construction", "Cleaning service", "Painting", "Interior", "Automation", "Office", "Others", "none" ],
         "unit": "numbers"
     }
 ]
