@@ -1,0 +1,31 @@
+[
+    {
+        "service_name": "Construction",
+        "unit": "Square feet"
+    },
+    {
+        "service_name": "Painting Works",
+        "unit": "Square feet"
+    },
+    {
+        "service_name": "Interior Works",
+        "unit": "Square feet"
+        
+    },
+    {
+        "service_name": "Wall Decor",
+        "unit": "Square feet"
+    },
+    {
+        "service_name": "Automation",
+        "unit": "numbers"
+    },
+    {
+        "service_name": "Cleaning Service",
+        "unit": "Square feet"
+    },
+    {
+        "service_name": "Man power",
+        "unit": "numbers"
+    }
+]
