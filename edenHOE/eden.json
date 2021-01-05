@@ -6,7 +6,7 @@
         "ui_images": "http://testapi.edenhoe.com:8000/media/construction_QTg66PA.jpg",
         "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg",
         "type_presence": false,
-        "types": [],
+        "types": []
     },
     {
         "id": 2,
