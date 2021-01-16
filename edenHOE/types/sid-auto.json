@@ -1,0 +1,37 @@
+[
+    {
+        "service_id": "sid-auto-cctv",
+        "type_name": "CCTV",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-motion",
+        "type_name": "Motion Sensor",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-fire",
+        "type_name": "Fire Alarm",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-switch",
+        "type_name": "AUtomatic Switches",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-lights",
+        "type_name": "AUtomatic Lights",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-gate",
+        "type_name": "Gates",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-auto-curtain",
+        "type_name": "Curtains",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    }
+]
