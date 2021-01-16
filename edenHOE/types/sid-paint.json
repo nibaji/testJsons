@@ -1,0 +1,12 @@
+[
+    {
+        "service_id": "sid-paint-reg",
+        "type_name": "Regular",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-paint-walldec",
+        "type_name": "Wall Decor",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    }
+]
