@@ -1,0 +1,12 @@
+[
+    {
+        "service_id": "sid-int-fceil",
+        "type_name": "False Ceiling",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-int-kworks",
+        "type_name": "Kitchen Works",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    }
+]
