@@ -1,70 +1,44 @@
 [
   {
-    "id": 1,
+    "service_id": "sid-cons",
     "service_name": "Construction",
     "service_description": "We Construct buildings including houses!",
     "ui_images": "http://testapi.edenhoe.com:8000/media/CONSTRUCTION.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/construction_LmO6rMm.jpg",
-    "type_presence": false,
-    "types": []
+    "type_presence": false
   },
   {
-    "id": 2,
+    "service_id": "sid-int",
     "service_name": "Interior Works",
     "service_description": "We do world class interior works with our professional artists",
     "ui_images": "http://testapi.edenhoe.com:8000/media/interior.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/interior_7ATDwOv.jpg",
-    "type_presence": true,
-    "types": [
-      "Fall Ceiling",
-      "Kitchen Works",
-      "Wardrobe"
-    ]
+    "type_presence": true
   },
   {
-    "id": 3,
+    "service_id": "sid-paint",
     "service_name": "Painting Works",
     "service_description": "We do painting works artistically!\r\nOur passionate painting artists take care of your home decoration with paints.",
     "ui_images": "http://testapi.edenhoe.com:8000/media/painting.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/Painting_ASnzcPt.jpg",
     "type_presence": true,
-    "types": [
-      "Design Painting",
-      "Wall Decor"
-    ]
   },
   {
-    "id": 5,
+    "service_id": "sid-auto",
     "service_name": "Automation",
     "service_description": "Automate and make your beloved home, THE SMART HOME! with our state of art Engineers",
     "ui_images": "http://testapi.edenhoe.com:8000/media/smart_home.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/smart_home.jpg",
-    "type_presence": true,
-    "types": [
-      "CCTv",
-      "Motion Sensor",
-      "Video Doorbell"
-    ]
+    "type_presence": true
   },
   {
-    "id": 6,
+    "service_id": "sid-land",
     "service_name": "Landscaping",
     "service_description": "Beautiful gardening makes",
     "ui_images": "http://testapi.edenhoe.com:8000/media/LANDSCAPING.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg",
-    "type_presence": false,
-    "types": []
+    "type_presence": false
   },
   {
-    "id": 7,
+    "service_id": "sid-clean",
     "service_name": "Cleaning Service",
     "service_description": "We take of your home cleaning efficiently, while you sit back and binge",
     "ui_images": "http://testapi.edenhoe.com:8000/media/cleaning.png",
-    "wide_image": "http://testapi.edenhoe.com:8000/media/cleaning_L21GyQg.jpg",
-    "type_presence": true,
-    "types": [
-      "Floor Cleaning",
-      "Roof Cleaning"
-    ]
+    "type_presence": true
   }
 ]
