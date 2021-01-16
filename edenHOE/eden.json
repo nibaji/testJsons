@@ -18,7 +18,7 @@
     "service_name": "Painting Works",
     "service_description": "We do painting works artistically!\r\nOur passionate painting artists take care of your home decoration with paints.",
     "ui_images": "http://testapi.edenhoe.com:8000/media/painting.png",
-    "type_presence": true,
+    "type_presence": true
   },
   {
     "service_id": "sid-auto",
