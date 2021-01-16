@@ -1,0 +1,32 @@
+[
+    {
+        "package_id": "CN001",
+        "title": "Basic Package",
+        "service_id": "sid-int-fceil",
+        "service_name": "False Ceiling",
+        "cost": "2300/sqft",
+        "is_expandable": false,
+        "has_designs": true,
+        "package_image": "http://testapi.edenhoe.com:8000/media/landscape-wallpaper-house-1500x500_2CpCtzZ.jpg"
+    },
+    {
+        "package_id": "CN002",
+        "title": "Standard Package",
+        "service_id": "sid-int-fceil",
+        "service_name": "False Ceiling",
+        "cost": "2300/sqft",
+        "is_expandable": false,
+        "has_designs": true,
+        "package_image": "http://testapi.edenhoe.com:8000/media/landscape-wallpaper-house-1500x500_2CpCtzZ.jpg"
+    },
+    {
+        "package_id": "CN003",
+        "title": "Premium Package",
+        "service_id": "sid-int-fceil",
+        "service_name": "False Ceiling",
+        "cost": "2700/sqft",
+        "is_expandable": false,
+        "has_designs": true,
+        "package_image": "http://testapi.edenhoe.com:8000/media/landscape-wallpaper-house-1500x500_FbZ9p0A.jpg"
+    }
+]
