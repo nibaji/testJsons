@@ -1,0 +1,22 @@
+[
+  {
+    "package_id": "IW-KW001",
+    "title": "Basic Package",
+    "service_id": "sid-clean-floor",
+    "service_name": "Floor Cleaning",
+    "cost": "2300/sqft",
+    "is_expandable": false,
+    "has_designs": false,
+    "package_image": "http://testapi.edenhoe.com:8000/media/landscape-wallpaper-house-1500x500_2CpCtzZ.jpg"
+  },
+  {
+    "package_id": "IW-KW002",
+    "title": "Standard Package",
+    "service_id": "sid-clean-floor",
+    "service_name": "Floor Cleaning",
+    "cost": "2300/sqft",
+    "is_expandable": false,
+    "has_designs": false,
+    "package_image": "http://testapi.edenhoe.com:8000/media/landscape-wallpaper-house-1500x500_2CpCtzZ.jpg"
+  }
+]
