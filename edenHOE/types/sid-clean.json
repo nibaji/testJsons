@@ -1,0 +1,22 @@
+[
+    {
+        "service_id": "sid-clean-floor",
+        "type_name": "Floor Cleaning",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-clean-roof",
+        "type_name": "Roof Claning",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-clean-wall",
+        "type_name": "Wall Claning",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    },
+    {
+        "service_id": "sid-clean-full",
+        "type_name": "Full Claning",
+        "type_image": "http://testapi.edenhoe.com:8000/media/Gypsum-false-ceiling-design_FjxZUeD.jpg"
+    }
+]
